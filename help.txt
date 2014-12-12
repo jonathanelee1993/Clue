@@ -1,0 +1,48 @@
+Objective: The objective of this game is to explore the mansion looking for clues that will point to who committed the murder, 
+what weapon s/he used, and in what room the murder occured. Make guesses as frequently as possible to be able to narrow down 
+your options. When you believe you have solved the mystery, make your accusation, and if you're correct, you win the game.
+
+Rules: When making guesses, the weapons that you can choose are limited only to those that you are holding in your inventory, 
+and the room that you will guess is automatically set to your current location. You cannot make a guess if you have no weapons
+in your inventory and/or you are either outside or in the corridor (you must be in one of the main nine rooms).
+
+Commands: Here is a guide on all of the commands in this game and how to use them:
+
+Go: use this to travel between rooms. Valid words to be used with this command
+are 'north', 'south', 'east', and 'west'. If you omit one of these words and type
+'go' on its own, this command will fail.
+
+Take: use this to pick up a weapon if you find one in a room. To use this command, 
+type 'take' followed by the name of the weapon. If you type the name of a weapon that 
+is not currently in the room (or is already in your inventory), this command will fail.
+
+Examine: use this to print the description of a weapon. Just type 'examine' followed by the 
+name of the weapon. You may only use this command on a weapon that is currently in your inventory.
+
+Look: use this to reprint the description of your current location. To do this,
+type the word 'look' on its own. Do not input anything else or this command will fail.
+
+Read: use this command to read your map. Type the word 'read' followed by the word 'map'.
+This command word is invalid on its own or with any object other than your map.
+
+Inventory: use this command to view a listing of the weapons that are currently in your inventory.
+Type the word 'inventory' on its own or else this command will fail.
+
+Guess: use this command to make a guess as to what the crime situation might be. Type
+'guess' on its own to initiate the command. The guessing process will require you to
+input the name of your suspect and a weapon that is in your inventory (the guess for your
+room will be automatically set to your current location at the time of making a guess).
+
+Solve: use this command to make a binding accusation as to who you believe commited the
+murder, in what room, and with what weapon. Do not do this unless you are absolutely sure
+you want to. If you're wrong, you lose the game: no take backs allowed!!
+Type the word 'solve' on its own to initiate this command. The guessing process will
+require you to input the name of your suspect, weapon, and room. Further assistance will
+be provided during the accusation process if necessary.
+
+Help: well obviously you SHOULD know how to use this command, since you are reading this
+help guide!! But just in case you forgot, simply type 'help' at any time that command
+inputs are allowed and you will be taken to this guide (I hope this guide has been helpful
+so far!!).
+
+Quit: if you wish to quit the game for some reason, just type 'quit' at any time and the game will end.

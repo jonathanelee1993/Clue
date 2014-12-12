@@ -1,0 +1,7 @@
+It is the year 1926. You are standing outside of the Tudor Mansion in Hampshire, England, on a cold, stormy night.
+There has recently been a murder here, and it is your job to solve the mystery.
+The suspect is one of the following six people: Miss Scarlet, Colonel Mustard, Mrs. White, Reverend Green, Mrs. Peacock, or Professor Plum. 
+The murder obviously must have occured in one of the nine rooms of the estate (the kitchen, the ballroom, the conservatory, the billiard room,
+the library, the study, the lounge, the hall, or the dining room), and from initial observation you have gathered that the weapon used
+must have been one of the following weapons found within the mansion: a candlestick, a knife, a lead pipe, a revolver, a rope, or a wrench.
+It is up to you to figure out this mystery. Explore the rooms within this mansion: you may be able to find some clues. May the best of luck be with you.

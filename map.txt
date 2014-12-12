@@ -1,0 +1,4 @@
+The map is oriented by a typical compass (north is up, south is down, east is right, and west is left). The mansion is divided into a 3 by 3 grid with 9 rooms. 
+The rooms in the top row (from left to right) are the kitchen, the ballroom, and the conservatory, in the middle row (from left to right) are the billiard room,
+the library, and the study, and in the bottom row (from left to right) are the lounge, the hall, and the dining room. Jutting south from the hall is a long
+corridor that connects the front door to the rest of the mansion.
